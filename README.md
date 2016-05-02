@@ -40,4 +40,4 @@
 
 ###Other
 - [ ] If you are using a carousel for your homepage, there should be no more than 1 image per 10 seconds
-- [ ] Make sure images are responsive
+- [ ] Make sure images are responsive while maintaining the original aspect ratio of the image
